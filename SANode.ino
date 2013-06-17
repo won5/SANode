@@ -3,7 +3,7 @@
 * Project: LG Exec Ed Program
 * Copyright: Copyright (c) 2013 Anthony J. Lattanze
 * Versions:
-*	1.0 May 2013.
+*	1.0 May 2013. 
 *
 * Description:
 *
